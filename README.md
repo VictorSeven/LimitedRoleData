@@ -1,6 +1,6 @@
 # LimitedRoleData
 
-Source code and data for our work, "Limited role of spatial self-structuring in emergent trade-offs during pathogen evolution". You can read a pre-print version [in ArXiV](https://arxiv.org/abs/1804.08463).
+Source code and data for our work, "Limited role of spatial self-structuring in emergent trade-offs during pathogen evolution". The article has been published [in Scientific Reports (2018)](dx.doi.org/10.1038/s41598-018-30945-1). You can also read a pre-print version [in ArXiV](https://arxiv.org/abs/1804.08463).
 
 ## Abstract
 
